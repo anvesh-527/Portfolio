@@ -20,7 +20,7 @@
     "imageSrc": "projects/project.png",
     "description": "Modern, responsive React app with seamless user experience.",
     "skills": ["React","Js","CSS","HTML"],
-    "demo": "https://github.com/anvesh-527/Portfolio",
+    "demo": "https://anveshk.netlify.app/",
     "source": "https://github.com/anvesh-527/Portfolio"
   }
 ]

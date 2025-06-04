@@ -12,7 +12,7 @@ A fully responsive React application showcasing my projects, skills, and experie
 
 ## 🔗 Live Demo
 
-[Click here to view the live demo](#) <!-- Replace # with your live demo URL -->
+[Click here to view the live demo](https://anveshk.netlify.app/) <!-- Replace # with your live demo URL -->
 
 ## 🛠️ Tech Stack
 
