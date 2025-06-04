@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Study Sync",
+    "imageSrc": "projects/project.png",
+    "description": "Fully responsive webpage with a modern UI and smooth, consistent cross-device experience.",
+    "skills": ["HTML", "CSS"],
+    "demo": "https://gilded-truffle-5c5696.netlify.app/",
+    "source": "https://github.com/anvesh-527/StudySync"
+  },
+  {
+    "title": "Weather App",
+    "imageSrc": "projects/project.png",
+    "description": "Built a responsive weather app using OpenWeather API with real-time data.",
+    "skills": ["HTML", "CSS", "Javascript"],
+    "demo": "https://anvesh-easy-weather.netlify.app/",
+    "source": "https://github.com/anvesh-527/Weather-App"
+  },
+  {
+    "title": "Portfolio",
+    "imageSrc": "projects/project.png",
+    "description": "Modern, responsive React app with seamless user experience.",
+    "skills": ["React","Js","CSS","HTML"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/anvesh-527/Portfolio"
+  }
+]
